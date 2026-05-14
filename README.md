@@ -182,7 +182,7 @@ Deep Learning
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/numpy-for-ai-engineers.git
+git clone https://github.com/Sagarkamble/numpy-for-ai-engineers.git
 ```
 
 Install dependencies:
